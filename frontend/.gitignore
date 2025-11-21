@@ -1,0 +1,11 @@
+node_modules/
+.next/
+.env.local
+.env
+.env.*.local
+.DS_Store
+.vscode/
+npm-debug.log*
+yarn-error.log*
+out/
+build/
